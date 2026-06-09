@@ -10,4 +10,4 @@ For a quick introduction, please see [Dr. Gail Zhou Intro](./bio/DocGailZhouIntr
 
 LinkedIn: [Gail Zhou, PhD | LinkedIn](https://www.linkedin.com/in/gailzhou/).
 
-Dr. Gail Zhou is a U.S. citizen and lives in Atlanta, Georgia. Her hobbies include birding, reading, cooking, traveling, gardening, and hiking. She also runs a bird-focused YouTube channel: **[cardinal100](https://www.youtube.com/@cardinal100)**.
+Dr. Gail Zhou is a U.S. citizen and lives in Atlanta, Georgia. Her hobbies include birding, gardening, cooking, reading, hiking, and traveling. She also runs a bird-focused YouTube channel: **[cardinal100](https://www.youtube.com/@cardinal100)**.
