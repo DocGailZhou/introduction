@@ -6,9 +6,8 @@ Dr. Gail Zhou holds a PhD in Electrical and Computer Engineering from University
 
 For my published GitHub Repo List and Event Speaking List at Microsoft, please see [GitHub Repos and Event Speaking Topics](./publications/README.md).
 
-Her hobbies include birding, reading, cooking, traveling, gardening, and hiking. Gail loves birds and runs a bird-focused YouTube channel (link: **[cardinal100](https://www.youtube.com/@cardinal100)**).
-
 For a quick introduction, please see [Dr Gail Zhou Intro](./bio/DocGailZhouIntro.pdf). For detailed experience, please see [Dr Gail Zhou Resume](./bio/resume/DrGailZhouResume.pdf).
 
 LinkedIn: [Gail Zhou, PhD | LinkedIn](https://www.linkedin.com/in/gailzhou/).
 
+Dr Gail Zhou lives in Atlanta, Georgia. Her hobbies include birding, reading, cooking, traveling, gardening, and hiking. Gail loves birds and runs a bird-focused YouTube channel (link: **[cardinal100](https://www.youtube.com/@cardinal100)**).
