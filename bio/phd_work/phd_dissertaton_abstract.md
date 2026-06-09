@@ -1,4 +1,4 @@
-# Title: Automatic Design of Autotuners for PID Controllers (Using AI/ML)
+# Title: Automatic Design of Autotuners for PID Controllers (Using AI/ML, and Fuzzy Logic)
 
 ## Dr. Gail Zhou PhD Dissertation Abstract 
 
