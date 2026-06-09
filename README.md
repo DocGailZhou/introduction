@@ -6,6 +6,6 @@ Dr. Gail Zhou holds a PhD in Electrical and Computer Engineering from University
 
 Her hobbies include birding, reading, cooking, traveling, gardening, and hiking. Gail loves birds and runs a bird-focused YouTube channel (link: **[cardinal100](https://www.youtube.com/@cardinal100)**).
 
-For a quick introduction, please see [Dr Gail Zhou Intro](./bio/DocGailZhouIntro.pdf). For detailed experience, please see [Dr Gail Zhou Resume](./bio/resume/Dr_Gail_Zhou_Resume.pdf).
+For a quick introduction, please see [Dr Gail Zhou Intro](./bio/DocGailZhouIntro.pdf). For detailed experience, please see [Dr Gail Zhou Resume](./bio/resume/DrGailZhouResume.pdf).
 
 LinkedIn: [Gail Zhou, PhD | LinkedIn](https://www.linkedin.com/in/gailzhou/).
