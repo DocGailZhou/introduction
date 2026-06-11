@@ -1,5 +1,7 @@
 ## About Dr. Gail Zhou
 
+**Personal Statemen**t: I seek to learn, grow, understand, accept, show empathy, and contribute meaningfully to others and the world around me. Words that resonate with me: **family**, **purpose**, **innovation**, **responsibility**, **accountability**, **commitment**, **contribution**, **resilience**. 
+
 Dr. Gail Zhou is a Microsoft Principal Software Engineer who has led 60+ customer engagements, published 12 GitHub solution accelerators, and is an inventor with two awarded US patents.  
 
 For Dr. Gail Zhou's published GitHub repository list and Microsoft event speaking list, please see [GitHub Repos and Event Speaking Topics](./publications/README.md).
