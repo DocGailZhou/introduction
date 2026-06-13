@@ -27,5 +27,3 @@ The main advantages of the three methods are
 (7)  practitioners (users) can specify their own controller objectives and ways to modify the controller 
 
 Full PhD Dissertation (AI/ML Application in Process Control): [Automatic design of autotuners for PID controllers](https://voljournals.utk.edu/cgi/viewcontent.cgi?article=12304&context=utk_graddiss). 
-
- 
