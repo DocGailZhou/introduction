@@ -1,4 +1,4 @@
-Please reuse the the code in infra/modules/network in this GitHub Repo: [Code Mod infra/modules/network folder](https://github.com/microsoft/Modernize-your-code-solution-accelerator/tree/main/infra/modules/network). This folder contains below BICEP code modules
+Code is used in this GitHub Repo: [Modernize Your Code SA](https://github.com/microsoft/Modernize-your-code-solution-accelerator). This folder contains below BICEP code modules
 
 - bastionHost.bicep: code to create bastion host. 
 - jumpbox.bicep: code to create jumpbox
