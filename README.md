@@ -15,4 +15,5 @@ Dr Gail Zhou loves birds and outdoor activities. Her hobbies include birding, ga
 Dr. Gail Zhou holds a PhD in Electrical and Computer Engineering from the University of Tennessee. Her PhD dissertation pioneered AI/ML applications in process control, using MATLAB to simulate systems and generate thousands of training datasets for ML algorithms. For an abstract, please see [PhD Dissertation Abstract](./bio/phd_work/phd_dissertation_abstract.md).
 
 Currently she is taking a career break. 
+
 ![backyard](./media/backyard.png) 
